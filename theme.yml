@@ -1,0 +1,5 @@
+name: Theme Template
+stylesheets:
+  - file: main.css
+    name: Main Stylesheet
+    description: The main stylesheet for the theme
