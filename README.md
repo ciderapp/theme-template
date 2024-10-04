@@ -3,10 +3,10 @@
 ## Usage
 **Node**
 ```bash
-npx giget ciderapp/theme-template my-theme-name
+npx giget github:ciderapp/theme-template my-theme-name
 ```
 
 **Bun**
 ```bash
-bunx giget ciderapp/theme-template my-theme-name
+bunx giget github:ciderapp/theme-template my-theme-name
 ```
